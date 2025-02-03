@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a AIML student at JSS banglore <br> <br>I'm Astrophysics enthusiast<br><br>I love solving problems 
+I'm a AIML student at JSS banglore <br> <br>I'm AI enthusiast<br><br>I love solving problems 
 
 
 ## 🌐 Socials:
