@@ -1,18 +1,95 @@
-# 💫 About Me:
-I'm a AIML student at JSS banglore <br> <br>I'm AI enthusiast<br><br>I love solving problems 
+# 👋 Hi, I'm Sanjay Gokul
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_eusele.ss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=plastic&logo=ros&logoColor=white) ![MaxCompute](https://img.shields.io/badge/MaxCompute-%23FF6701?style=plastic&logo=alibabacloud&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=plastic&logo=bulma&logoColor=white) ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=plastic&logo=buefy&logoColor=48289E) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=plastic&logo=p5.js&logoColor=FFFFFF) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=plastic&logo=proto.io&logoColor=00e5ff) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sanjaygokul-ikify&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanjaygokul-ikify&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaygokul-ikify&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
+🚀 AIML Student @ JSS Bangalore  
+🔬 Focus: AI/ML + Open Source  
+💡 Building real-world AI systems & scalable applications  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sanjaygokul-ikify&icon=5&color=6)](https://visitcount.itsvg.in)
+
+# 🧠 Current Focus
+- 🌱 Preparing for GSoC 2027 & LFX Mentorship
+- 🤝 CONTRIBUTING to open-source (AI/ML domain)
+- ⚡ Building impactful AI + Full Stack projects
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 [Mental AI Assistant](https://github.com/sanjaygokul-ikify/mrntal_ai_assistant)
+
+> 🔍 Problem:  
+Traditional AI assistants rely heavily on external APIs and large language models, making them costly, less customizable, and dependent on third-party services. There is a need for a lightweight, self-contained AI system that can understand human emotions and generate meaningful responses independently.
+
+> ⚙️ Tech:  
+Python, TensorFlow / PyTorch, OpenCV, NumPy  
+
+> 🚀 Impact:  
+- Built a **fully independent AI assistant** without using APIs or LLM wrappers  
+- Implemented **real-time face emotion detection** using computer vision  
+- Developed a **custom text generation system from scratch**  
+- Demonstrates deep understanding of **AI pipelines, model building, and data processing**  
+- Can be extended for **mental health support, human-computer interaction, and adaptive systems**
+
+---
+
+## 🐭 [Mouse Behavior Classifier](https://github.com/sanjaygokul-ikify/mouse-behavior-classifier)
+
+> 🔍 Problem:  
+Understanding animal behavior is crucial for neuroscience research, drug testing, and behavioral analysis. Manual annotation is time-consuming and error-prone, creating a need for automated, scalable solutions.
+
+> ⚙️ Tech:  
+Python, TensorFlow/Keras, NumPy, Pandas, scikit-learn, OpenCV  
+
+> 🚀 Impact:  
+- Designed a **CNN + LSTM hybrid model** to capture spatial and temporal patterns  
+- Classified **30+ complex mouse behaviors** from pose keypoint sequences  
+- Achieved **90% accuracy with strong macro F1 score (0.88)**  
+- Built a **complete ML pipeline**: data preprocessing → training → evaluation → inference  
+- Includes visualization tools (confusion matrix, pose tracking)  
+
+> 🧠 Highlights:
+- Handles sequential data: `(frames × keypoints × coordinates)`  
+- Real-world application in **behavioral AI and research automation**
+
+---
+
+# 🌍 Open Source Journey
+
+🚧 Currently starting contributions in:
+- Hugging Face / OpenCV / LF AI & Data  
+
+📌 Goals:
+- 10+ meaningful PRs
+- Contribute to real-world AI systems
+- Get selected for GSoC 2027 & LFX Mentorship  
+
+---
+
+# 💻 Tech Stack (Focused)
+
+### 🧠 AI/ML
+- Python, TensorFlow, PyTorch, Pandas  
+
+### 🌐 Development
+- React, Django, Flutter  
+
+### ⚙️ Tools
+- Git, GitHub, Anaconda  
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=sanjaygokul-ikify&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanjaygokul-ikify&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaygokul-ikify&theme=dark&hide_border=true&layout=compact)
+
+---
+
+# 🌐 Connect with Me
+- 💼 LinkedIn: [www.linkedin.com/in/sanjay-gokul-0221b2307](https://www.linkedin.com/in/sanjay-gokul-0221b2307/)
+
+---
+
+⭐ *“Building today for the systems of tomorrow.”*
