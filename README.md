@@ -92,4 +92,4 @@ Python, TensorFlow/Keras, NumPy, Pandas, scikit-learn, OpenCV
 
 ---
 
-⭐ *“Building today for the systems of tomorrow.”*
+⭐ *“Building today for the systems of tomorrow.”
