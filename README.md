@@ -1,5 +1,5 @@
 #  Hi, I'm Sanjay Gokul
-# Visit my website: https://vineai.qzz.io/
+# Visit my website: https://vineai.co.in/
  AIML Student @ JSS Bangalore  
  Focus: AI/ML + Open Source  
  Building real-world AI systems & scalable applications  
